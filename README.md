@@ -2,8 +2,6 @@
 
 # Advanced AI-Enhanced Optical Tweezers Analysis System
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 A comprehensive Python system for simulating and analyzing optical tweezers experiments using artificial intelligence for enhanced particle detection and trajectory analysis.
 
 ## Overview
@@ -13,8 +11,6 @@ This project provides a complete framework for:
 - Detecting and tracking particles using deep learning
 - Analyzing particle trajectories with advanced statistical methods
 - Visualizing and storing experimental results
-
-![Optical Tweezers Simulation](https://github.com/yourusername/ai-optical-tweezers/raw/main/docs/images/simulation_example.png)
 
 ## Features
 
