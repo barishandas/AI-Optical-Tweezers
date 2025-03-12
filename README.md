@@ -1,6 +1,6 @@
 # Optical-Tweezers
 
-# Advanced AI-Enhanced Optical Tweezers Analysis System
+# AI-Enhanced Optical Tweezers Analysis System
 
 A comprehensive Python system for simulating and analyzing optical tweezers experiments using artificial intelligence for enhanced particle detection and trajectory analysis.
 
