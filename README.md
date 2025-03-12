@@ -1,6 +1,4 @@
-# Optical-Tweezers
-
-# AI-Enhanced Optical Tweezers Analysis System
+# Advanced AI-Enhanced Optical Tweezers Analysis System
 
 A comprehensive Python system for simulating and analyzing optical tweezers experiments using artificial intelligence for enhanced particle detection and trajectory analysis.
 
@@ -47,9 +45,6 @@ This project provides a complete framework for:
 - matplotlib
 - pandas
 - seaborn
-
-
-```
 
 ## Usage
 
@@ -129,25 +124,3 @@ This system can be used for:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Citation
-
-If you use this code in your research, please cite:
-
-```
-@software{ai_optical_tweezers_2025,
-  author = {Your Name},
-  title = {Advanced AI-Enhanced Optical Tweezers Analysis System},
-  year = {2025},
-  url = {https://github.com/yourusername/ai-optical-tweezers}
-}
-```
-
-## Acknowledgments
-
-- This project was inspired by advances in optical manipulation techniques
-- Special thanks to the community developing tools for single-particle analysis
