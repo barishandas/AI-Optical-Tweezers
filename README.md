@@ -51,7 +51,7 @@ This project provides a complete framework for:
 ### Basic Usage
 
 ```python
-from optical_tweezers import ParticleSimulator, ParticleDetectorCNN, AdvancedAnalyzer
+from tweezers4 import ParticleSimulator, ParticleDetectorCNN, AdvancedAnalyzer
 
 # Initialize components
 simulator = ParticleSimulator(n_particles=10)
