@@ -1,23 +1,3 @@
-"""
-Advanced AI-Enhanced Optical Tweezers Analysis System
-
-This self-contained implementation includes:
-1. Sophisticated particle simulation with Brownian dynamics
-2. Deep learning-based particle detection and tracking
-3. Advanced pattern recognition and anomaly detection
-4. Comprehensive statistical analysis
-5. Automatic result storage and visualization
-
-Requirements:
-- numpy
-- torch
-- scipy
-- sklearn
-- matplotlib
-- pandas
-- seaborn
-"""
-
 import numpy as np
 import torch
 import torch.nn as nn
