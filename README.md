@@ -48,15 +48,7 @@ This project provides a complete framework for:
 - pandas
 - seaborn
 
-## Installation
 
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/ai-optical-tweezers.git
-cd ai-optical-tweezers
-
-# Install required packages
-pip install -r requirements.txt
 ```
 
 ## Usage
